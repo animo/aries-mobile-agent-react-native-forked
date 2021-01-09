@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "aries-framework-javascript": "file:aries-framework-javascript.tgz",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-fs": "^2.16.6",
